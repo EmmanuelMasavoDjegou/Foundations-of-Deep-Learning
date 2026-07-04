@@ -8,7 +8,7 @@ The material is primarily based on *Deep Learning* by **Ian Goodfellow, Yoshua B
 
 # 📚 Structure
 
-## 🌱 Phase I — Machine Learning Foundations
+## 🌱 Chapter 1 — Machine Learning Foundations
 
 ### 📖 Module 1 — Learning from Data
 
@@ -37,7 +37,7 @@ The material is primarily based on *Deep Learning* by **Ian Goodfellow, Yoshua B
 
 ---
 
-## 🧠 Phase II — Core Deep Learning
+## 🧠 Chapter 2 — Core Deep Learning
 
 ### 📖 Module 3 — Why Deep Learning?
 
@@ -75,7 +75,7 @@ The material is primarily based on *Deep Learning* by **Ian Goodfellow, Yoshua B
 
 ---
 
-## 🚀 Phase III — Training Deep Networks Effectively
+## 🚀 Chapter 3 — Training Deep Networks Effectively
 
 ### 📖 Module 6 — Regularization and Generalization
 
@@ -104,7 +104,7 @@ The material is primarily based on *Deep Learning* by **Ian Goodfellow, Yoshua B
 
 ---
 
-## 🌍 Phase IV — Modern Deep Learning Architectures
+## 🌍 Chapter 4 — Modern Deep Learning Architectures
 
 ### 📖 Module 8 — Convolutional Neural Networks
 
