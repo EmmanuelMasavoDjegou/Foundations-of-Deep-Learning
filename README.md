@@ -1,6 +1,6 @@
 # 🧠 Foundations of Deep Learning
 
-A collection of **graduate-level lecture slides** covering the theoretical foundations and modern architectures of deep learning.
+A collection of **lecture slides** covering the theoretical foundations and modern architectures of deep learning.
 
 The material is primarily based on *Deep Learning* by **Ian Goodfellow, Yoshua Bengio, and Aaron Courville**, with additional material on **Transformers** and **Large Language Models (LLMs)**.
 
